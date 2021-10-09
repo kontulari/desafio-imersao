@@ -3,8 +3,7 @@
       "id": 1,
       "nome": "Reemissão de guia GPS (INSS)",
       "descricao": "Reemissão de guias referentes ao INSS recolhido nos períodos de responsabilidade da Kontulari ou períodos anteriores. Neste item, estão incluídas guias de parcelamentos previdenciários.",
-      "setor": "FOLHA",
-      "prazo": 3
+      "setor": "FOLHA"
     },
     {
       "id": 2,

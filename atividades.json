@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "nome": "Reemissão de guia GPS (INSS)",
+      "descricao": "Reemissão de guias referentes ao INSS recolhido nos períodos de responsabilidade da Kontulari ou períodos anteriores. Neste item, estão incluídas guias de parcelamentos previdenciários.",
+      "setor": "FOLHA",
+      "prazo": 3
+    },
+    {
+      "id": 2,
+      "nome": "Consultoria tributária",
+      "descricao": "Nossos contadores vão analisar a sua empresa em relação a tributação atual e apresentar todas as opções de tributações, sempre respeitando a atividade prestada pela empresa. Ou seja, análise tributária da sua empresa, apontando as sugestões de melhoria.",
+      "setor": "FISCAL"
+    },
+    {
+      "id": 3,
+      "nome": "Regularização e Alteração somente na Prefeitura",
+      "descricao": "Este serviço compreende a alteração das informações da sua empresa cadastradas na Prefeitura, incluindo alteração no seu alvará. Veja mais detalhes.",
+      "setor": "PROCURADORIA"
+    },
+    {
+      "id": 4,
+      "nome": "Alteração contratual",
+      "descricao": "Existem diversos tipos de alterações contratuais que variam de acordo com os itens que precisam ser alterados. Para entendermos melhor a sua necessidade e ajudá-lo a decidir qual a melhor opção criamos um guia.",
+      "setor": "PROCURADORIA"
+    },
+    {
+      "id": 5,
+      "nome": "Emissão de Recibo de Pagamento Autônomo (RPA)",
+      "descricao": "Caso sua empresa tenha contratado um serviço de uma pessoa física, deverá ser gerado o RPA com as informações fornecidas e a geração das respectivas guias de impostos incidentes sobre esse tipo de pagamento.",
+      "setor": "FOLHA"
+    },
+    {
+      "id": 6,
+      "nome": "Declaração de faturamento",
+      "descricao": "Declaração de faturamento para os últimos 12 meses da empresa assinado pelo nosso contador responsável (para empresas que não tem 12 meses, será feito com a quantidade de meses em atividade).",
+      "setor": "FISCAL"
+    },
+    {
+      "id": 7,
+      "nome": "Conversão de extratos (PDF para OFX)",
+      "descricao": "Conversão de extratos quando o banco não fornece o formato aceito pela plataforma no período selecionado",
+      "setor": "CONTABIL"
+    },
+    {
+      "id": 8,
+      "nome": "Obtenção de alvará",
+      "descricao": "Este serviço compreende a emissão do seu alvará na Prefeitura - caso ainda não tenha este documento.",
+      "setor": "PROCURADORIA"
+    },
+    {
+      "id": 9,
+      "nome": "Emissão de Certidão Negativa (CND)",
+      "descricao": "Realizamos a emissão das Certidões negativas da sua empresa junto a órgãos Federais, Estaduais e Municipais. Certidões só podem ser emitidas para empresas que não possuam pendências nos respectivos órgãos. Caso a empresa tenha pendências junto a órgãos públicos, enviamos um orçamento de regularização.",
+      "setor": "PROCURADORIA"
+    },
+    {
+      "id": 10,
+      "nome": "Reemissão de guia de imposto do Simples Nacional",
+      "descricao": "Reemissão de guias de impostos DAS de períodos anteriores a nossa competência ou de guias de parcelamento.",
+      "setor": "FISCAL"
+    }
+]
